@@ -1,0 +1,44 @@
+# Astral Silk palette (machine-readable)
+# A refined, elegant nocturne with silken highlights
+primary_bg: "#0C0E14"        # Ink night
+secondary_bg: "#0F141D"      # Deep slate-blue black
+tertiary_bg: "#1A2030"       # Elevated cool surface
+primary_accent: "#E6B673"    # Silken gold
+secondary_accent: "#3FD9D0"  # Electric cyan-teal
+tertiary_accent: "#A584FF"   # Royal violet (WCAG-lifted)
+text_primary: "#F5F7FA"      # Porcelain white
+text_secondary: "#C9D0DA"    # Mist silver
+text_dim: "#A3ACB8"          # Whisper gray-blue
+success: "#5CCF76"           # Verdant silk
+warning: "#FFD166"           # Sunlit amber
+error: "#FF6E6E"             # Coral blaze
+info: "#6EA8FE"              # Lapis sky
+selection_bg: "#263247"      # Night haze
+
+ansi_normal:
+  black:   "#0F141D"
+  red:     "#FF6E6E"
+  green:   "#5CCF76"
+  yellow:  "#FFD166"
+  blue:    "#6EA8FE"
+  magenta: "#A584FF"
+  cyan:    "#3FD9D0"
+  white:   "#F5F7FA"
+ansi_bright:
+  black:   "#2A3146"
+  red:     "#FF8C8C"
+  green:   "#7DE89A"
+  yellow:  "#FFE08A"
+  blue:    "#8FC2FF"
+  magenta: "#A388FF"
+  cyan:    "#63E6DF"
+  white:   "#FFFFFF"
+ansi_dim:
+  black:   "#0C0E14"
+  red:     "#E15A5A"
+  green:   "#47B867"
+  yellow:  "#E6BE59"
+  blue:    "#5C97F5"
+  magenta: "#6E3DE6"
+  cyan:    "#32BFB6"
+  white:   "#C9D0DA"

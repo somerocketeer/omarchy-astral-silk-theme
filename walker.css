@@ -1,0 +1,22 @@
+@define-color selected-text #E6B673;
+@define-color text #F5F7FA;
+@define-color base #0C0E14;
+@define-color border #E6B673;
+@define-color foreground #F5F7FA;
+@define-color background #0C0E14;
+@define-color selected-gradient linear-gradient(90deg, #263247 0%, #2A3146 100%);
+@define-color selected-accent #3FD9D0;
+@define-color caret #A584FF;
+@define-color success #5CCF76;
+@define-color success-alt #7DE89A;
+
+/* Translucent backdrop for wallpaper fit */
+@define-color background-trans rgba(12,14,20,0.90);
+
+window,
+box#main {
+  background-color: @background-trans;
+  color: @text;
+  border: 1px solid @border;
+  border-radius: 10px;
+}

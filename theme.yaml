@@ -1,0 +1,23 @@
+name: Astral Silk
+slug: astral-silk
+authors:
+  - name: mcw
+    email: ""
+version: 0.1.0
+description: "An elegant nocturne with silken metallic highlights and cool astral undertones."
+license: MIT
+tags: [dark, elegant, nocturne]
+palette: palette.yml
+apps:
+  - alacritty
+  - waybar
+  - hyprland
+  - mako
+  - btop
+  - walker
+  - neovim
+  - chromium
+  - icons
+  - yazi
+notes: |
+  Standalone theme project.

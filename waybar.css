@@ -1,0 +1,16 @@
+@define-color background #0C0E14;
+@define-color background-alt #1A2030;
+@define-color foreground #F5F7FA;
+@define-color accent #E6B673;
+@define-color accent-alt #3FD9D0;
+@define-color accent-warm #A584FF;
+@define-color urgent #FF6E6E;
+@define-color success #5CCF76;
+@define-color border #2A3146;
+@define-color warning #FFD166;
+@define-color error #FF6E6E;
+@define-color info #6EA8FE;
+@define-color muted #A3ACB8;
+@define-color border-hover #E6B673;
+@define-color border-active #E6B673;
+
