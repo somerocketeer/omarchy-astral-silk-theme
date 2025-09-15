@@ -2,6 +2,8 @@
 
 An elegant nocturne with silken metallic gold, cool astral blues, and glints of cyan.
 
+<img width="3840" height="2560" alt="screenshot-2025-09-14_22-19-32" src="https://github.com/user-attachments/assets/a0d79638-7212-4417-8356-6ef11a84f193" />
+
 ## Palette
 - Primary BG:   #0C0E14 (ink night)
 - Secondary BG: #0F141D (slate-blue black)
@@ -11,16 +13,6 @@ An elegant nocturne with silken metallic gold, cool astral blues, and glints of 
 - Semantic:     Success #5CCF76, Warning #FFD166, Error #FF6E6E, Info #6EA8FE
 - Selection:    #263247
 
-ANSI palettes included in palette.yml.
+ANSI palettes included in `palette.yml`.
 
-## Editors and Tools
-
-This repository ships app themes/config for: Alacritty, Waybar, Hyprland, Mako, btop, Walker, Neovim, Chromium, and icons.
-
-Helix and Yazi themes are now kept locally and not tracked in this repo.
-
-### Yazi
-- Managed in dotfiles: ~/.dotfiles/config/yazi/themes/astral-silk.toml
-- Config link: ~/.config/yazi/theme.toml -> ~/.dotfiles/config/yazi/themes/astral-silk.toml
-
-To update either theme, edit the local file and restart the app.
+[Background source](https://www.artstation.com/artwork/8Nr0Q)
